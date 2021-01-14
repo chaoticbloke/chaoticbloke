@@ -38,8 +38,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaParker&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaParker&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaoticbloke&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaoticbloke&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -49,4 +49,4 @@
 
 ---
 
-⭐️ From [@aditya](https://github.com/AdityaParker)
+⭐️ From [@aditya](https://github.com/chaoticbloke)
