@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: aditya](https://img.shields.io/twitter/follow/chaoticbloke?style=social)](https://twitter.com/chaoticbloke)
-[![Linkedin: adityagautam](https://img.shields.io/badge/-adityagautam96-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityagautam96/)](https://www.linkedin.com/in/adityagautam96/)
+[![Linkedin: adityagautam96](https://img.shields.io/badge/-adityagautam96-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityagautam96/)](https://www.linkedin.com/in/adityagautam96/)
 
 <h3> A little more about me...  </h3>
 <p>I am a CSE graduate from NIT Allahabad,India and passionate about web,chess and film making.</p>
